@@ -30,3 +30,15 @@ Instalar o gerenciador do webdrive do navegador:
 pip install webdriver-manager
 ```
 
+Jupyterlab:
+
+```shell
+pip install jupyterlab
+```
+
+Iniciar Jupyterlab:
+
+```
+jupyter lab
+```
+
